@@ -1,0 +1,24 @@
+.parent {
+    background-color: rgb(56, 104, 248);
+    height: 300vh;
+    /* position: absolute; */
+}
+
+.child-1 {
+    background-color: rgb(99, 200, 99);
+    width: 50vw;
+    position: sticky;
+    top: 0;
+}
+
+.child-2 {
+    background-color: rgb(202, 101, 101);
+    width: 50vw
+
+}
+
+.child-3 {
+    background-color: rgb(199, 132, 199);
+    width: 50vw
+
+}
